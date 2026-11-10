@@ -1,1 +1,4 @@
-
+<resources>
+    <string name="app_name">CoC Bot</string>
+    <string name="a11y_desc">Dipakai bot untuk melakukan tap di layar.</string>
+</resources>
